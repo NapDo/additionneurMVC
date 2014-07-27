@@ -230,7 +230,7 @@ public class MainGUI extends javax.swing.JFrame {
      Desktop desktop = null; 
 java.net.URI url; 
 try { 
-url = new java.net.URI("http://blabla/blabal/blaba.html"); 
+url = new java.net.URI("http://napdo-soft.com"); 
 if (Desktop.isDesktopSupported()) 
 { 
 desktop = Desktop.getDesktop(); 
